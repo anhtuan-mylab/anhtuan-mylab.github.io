@@ -12,6 +12,7 @@ baseurl: ''
 # otherwise, the layout language will use the default value of 'en'.
 lang: vi-VN
 
+future: true
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Ho_Chi_Minh
