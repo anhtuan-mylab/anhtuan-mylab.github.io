@@ -81,9 +81,9 @@ rtt min/avg/max/mdev = 206.009/206.781/207.441/0.590 ms
 - Khai thác lỗ hổng và leo thang đặc quyền.
 - Lấy được nội dung của flags.txt
 
-## 3. Thu thập thông tin :
+# 3. Thu thập thông tin :
 
-### sử dụng nmap (tìm các cổng đang mở trên máy ảo) :
+## sử dụng nmap (tìm các cổng đang mở trên máy ảo) :
 
 → phát hiện cổng 23 (dịch vụ telnet).
 
@@ -102,7 +102,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 49.66 seconds
 ```
 
-## 4. Khai thác lỗ hổng :
+# 4. Khai thác lỗ hổng :
 
 Thử truy cập dịch vụ telnet bằng câu lệnh :
 
@@ -174,11 +174,11 @@ Last login: Tue Jan 17 05:15:52 UTC 2023 on pts/0
 root@Meow:~#
 ```
 
-## 5. Leo thang đặc quyền :
+# 5. Leo thang đặc quyền :
 
 không cần thiết do sau khi đăng nhập vào máy ảo bằng telnet thì mình đã là root luôn rồi.
 
-## 6. Thu thập flags :
+# 6. Thu thập flags :
 
 Chỉ cần dùng câu lệnh “ls -alh” 
 
@@ -204,7 +204,7 @@ drwxr-xr-x  3 root root 4.0K Apr 21  2021 snap
 root@Meow:~#
 ```
 
-## 7. Tài liệu tham khảo :
+# 7. Tài liệu tham khảo :
 
 [https://cheatography.com/davechild/cheat-sheets/linux-command-line/](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
