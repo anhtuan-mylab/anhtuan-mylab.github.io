@@ -1,7 +1,7 @@
 ---
 title: HackTheBox | Medium | Ambassador WriteUp
 date: 2023-01-15 
-categories: [HackTheBox, Medium]
+categories: [HackTheBox, Machine]
 ---
 
 # [Medium] Ambassador WriteUp
