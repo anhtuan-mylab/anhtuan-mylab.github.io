@@ -1,6 +1,6 @@
 ---
 title: HackTheBox | Easy | (Reversing) Behind the Scenes
-date: 2023-01-15 
+date: 2023-01-16 
 categories: [HackTheBox, Machine]
 ---
 
