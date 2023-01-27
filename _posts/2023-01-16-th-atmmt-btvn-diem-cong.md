@@ -1,7 +1,7 @@
 ---
 title: TH-ATMMT | Bài tập về nhà (điểm cộng) | Tìm hiểu về chức năng DDNS trên pfsense
 date: 2023-01-16 
-categories: [TH-ATMMT, BTVN-DiemCong]
+categories: [TH-ATMMT | Thực hành an toàn mạng máy tính, BTVN-DiemCong]
 ---
 
 
