@@ -1,5 +1,5 @@
 ---
-title: HackTheBox | Challenges | [Reversing] Behind the Scenes
+title: HackTheBox | Challenges | (Reversing) Behind the Scenes
 date: 2023-01-16 
 categories: [HackTheBox, Challenges]
 ---
