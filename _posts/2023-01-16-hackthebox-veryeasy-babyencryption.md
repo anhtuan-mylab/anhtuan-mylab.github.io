@@ -1,5 +1,5 @@
 ---
-title: HackTheBox | VeryEasy | (Cryto) BabyEncryption WriteUp
+title: HackTheBox | VeryEasy | (Crypto) BabyEncryption WriteUp
 date: 2023-01-16 
 categories: [HackTheBox, Crypto]
 ---
