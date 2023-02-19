@@ -107,7 +107,7 @@ anthem.flag.txt: Unicode text, UTF-8 text
       it.
 ```
 
-Theo như phần gởi ý thì nội dung của cờ có dạng là picoCTF{xxxxxx} và đăng ẩn bên trong nội dung của tập tin. Tớ chỉ cần dùng công cụ grep trong linux với từ khóa là pico thì mình có thể tìm được nội dung của cờ.
+Theo như phần gợi ý thì nội dung của cờ có dạng là picoCTF{xxxxxx} và đăng ẩn bên trong nội dung của tập tin. Tớ chỉ cần dùng công cụ grep trong linux với từ khóa là pico thì mình có thể tìm được nội dung của cờ.
 
 ```bash
 ┌──(kali㉿kali)-[~/Desktop/picoCTF/picoCTF-forensic/[100 points] Lookey here]
