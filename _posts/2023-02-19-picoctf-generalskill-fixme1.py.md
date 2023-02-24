@@ -7,8 +7,7 @@ categories: [picoCTF, GeneralSkill]
 
 # [100 points] [GeneralSkill] fixme1.py WriteUp
 
-Hoàn thiện báo cáo: Hoàn thành
-Quá trình thực hiện: Done
+
 
 # Tổng quan :
 
