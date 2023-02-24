@@ -77,7 +77,7 @@ flag = str_xor(flag_enc, 'enkidu')
 
 Khởi chạy tập tin :
 
-→ Tập tin báo lỗi cú pháp khi khởi chạy.
+→ Tập tin báo lỗi khoảng cách khi khởi chạy.
 
 → Khắc phục được lỗi có thể sẽ hiển thị nội dung của cờ.
 
